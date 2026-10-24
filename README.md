@@ -1,8 +1,6 @@
 # 🔀 Gateways and observability reviews · Best of Open-Source AI
 
-LLM gateways and proxies for routing, caching and cost control, and tracing, evaluation and prompt management for LLM apps. Back to the [leaderboard](../README.md#-gateways-and-observability).
-
-<sub>🌐 Also on the web: [Gateways and observability on archestack.com](https://archestack.com/best-of-ai/gateways/), each project on its own page.</sub>
+LLM gateways and proxies for routing, caching and cost control, and tracing, evaluation and prompt management for LLM apps.
 
 <a name="omniroute"></a>
 ### 🥇 [OmniRoute](https://github.com/diegosouzapw/omniroute) <sub>score [96](../README.md#-how-we-rank "Score 96/100. Adoption: widely used (98) · Freshness: active (100) · Maintenance: healthy (98) · Agent-ready: partly (70) (each out of 100, weighted). Click for how we rank.") · ⭐ 81k · MIT · Oct 2026</sub>
